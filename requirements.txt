@@ -1,0 +1,3 @@
+touch requirements.txt
+
+# No external dependencies. Uses Python standard library
